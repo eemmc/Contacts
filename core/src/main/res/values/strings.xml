@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">加载中</string>
+    <string name="doing">处理中…</string>
+
+    <string name="main_tab_message">消息</string>
+    <string name="main_tab_contact">通讯录</string>
+    <string name="main_tab_discover">发现</string>
+    <string name="main_tab_person">我的</string>
+
+    <string name="account_info">账号信息</string>
+
+</resources>
